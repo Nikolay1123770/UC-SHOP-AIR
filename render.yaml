@@ -13,4 +13,4 @@ services:
       - key: FK_SHOP_ID
         value: "64274"
       - key: FK_SECRET_KEY
-        value: "?]_yr1XTWWeDWPI"
+        value: "yM33CzeqV=Cep/l"
